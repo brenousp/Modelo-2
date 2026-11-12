@@ -1,0 +1,16 @@
+motif;categoria;justificativa;referencia;peso;;
+GAAUUC;restricao;Sitio de restricao EcoRI. Essencial para clonagem BioBrick;iGEM RFC10;1;GAAUUC;
+UCUAGA;restricao;Sitio de restricao XbaI. Essencial para clonagem BioBrick;iGEM RFC10;1;UCUAGA;
+ACUAGU;restricao;Sitio de restricao SpeI. Essencial para clonagem BioBrick;iGEM RFC10;1;ACUAGU;
+CUGCAG;restricao;Sitio de restricao PstI. Essencial para clonagem BioBrick;iGEM RFC10;1;CUGCAG;
+GCGGCCGC;restricao;Sitio de restricao NotI. Evitar para flexibilidade de clonagem;iGEM RFC10;0.9;GCGGCCGC;
+CUCGAG;restricao;Sitio de restricao XhoI. Evitar para compatibilidade futura;iGEM RFC10;0.8;CUCGAG;
+GCUAGC;restricao;Sitio de restricao NheI. Evitar para compatibilidade futura;iGEM RFC10;0.8;GCUAGC;
+CAGCUG;restricao;Sitio de restricao PvuII. Evitar para compatibilidade futura;iGEM RFC10;0.7;CAGCUG;
+CCUAGG;restricao;Sitio de restricao AvrII. Evitar para compatibilidade futura;iGEM RFC10;0.7;CCUAGG;
+GCUCUUC;restricao;Sitio de restricao SapI. Evitar para compatibilidade futura;iGEM RFC10;0.7;GCUCUUC;
+GGAUCC;restricao;Sitio de restricao BamHI. Evitar para flexibilidade de clonagem;Literatura padrao;0.7;GGAUCC;
+AAGCUU;restricao;Sitio de restricao HindIII. Evitar para flexibilidade de clonagem;Literatura padrao;0.7;AAGCUU;
+GUCGAC;restricao;Sitio de restricao SalI. Evitar para flexibilidade de clonagem;Literatura padrao;0.7;GUCGAC;
+UUUAAA;poliA;Sinal de poliadenilacao em plantas e mamiferos;Coleman2008;0.7;UUUAAA;
+GCGCGC;estrutura;Rica em GC. Pode formar estruturas secundarias;Evitar >5 G+C consecutivos;0.7;GCGCGC;
